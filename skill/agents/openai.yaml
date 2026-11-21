@@ -1,0 +1,4 @@
+interface:
+  display_name: "Motion Performance Budgeter"
+  short_description: "Audit animation inventories against duration, concurrency, reduced-motion and compositor-safe p"
+  default_prompt: "Use @motion-performance-budgeter on my authorized input and return a validated result."
